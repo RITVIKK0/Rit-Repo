@@ -1,0 +1,7 @@
+version: 0.0
+os: linux
+files:
+  - source: target/myapp-1.0.0.jar
+    destination: /opt/deploy/
+file_exists_behavior: OVERWRITE
+

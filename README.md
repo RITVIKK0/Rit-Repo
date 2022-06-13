@@ -1,1 +1,2 @@
-# Rit-Repo
+# myapp
+Spring Boot application code
